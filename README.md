@@ -8,5 +8,5 @@
 
 Демонстрация работы:
 
-| ![](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/computer-vision/pencils/-/raw/main/raw/demo_1.png?inline=false) |
+| ![](/raw/demo_1.png) |
 | ------------------------------------------------------------ |
